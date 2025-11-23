@@ -1,0 +1,81 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 247 43% 7%;
+    --foreground: 0 0% 100%;
+
+    --card: 248 32% 12%;
+    --card-foreground: 0 0% 100%;
+
+    --popover: 248 32% 12%;
+    --popover-foreground: 0 0% 100%;
+
+    --primary: 267 84% 66%;
+    --primary-foreground: 0 0% 100%;
+
+    --secondary: 248 32% 16%;
+    --secondary-foreground: 0 0% 100%;
+
+    --muted: 248 32% 18%;
+    --muted-foreground: 257 12% 72%;
+
+    --accent: 190 94% 44%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 78% 56%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 248 32% 20%;
+    --input: 248 32% 20%;
+    --ring: 267 84% 66%;
+
+    --radius: 0.75rem;
+
+    --success: 142 70% 45%;
+    --success-foreground: 0 0% 100%;
+
+    --warning: 38 92% 58%;
+    --warning-foreground: 0 0% 100%;
+
+    --info: 199 89% 64%;
+    --info-foreground: 0 0% 100%;
+
+    --sidebar-background: 248 32% 12%;
+    --sidebar-foreground: 0 0% 100%;
+    --sidebar-primary: 267 84% 66%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 248 32% 16%;
+    --sidebar-accent-foreground: 0 0% 100%;
+    --sidebar-border: 248 32% 20%;
+    --sidebar-ring: 267 84% 66%;
+
+    --chart-1: 267 84% 66%;
+    --chart-2: 190 94% 44%;
+    --chart-3: 38 92% 58%;
+    --chart-4: 142 70% 45%;
+    --chart-5: 327 72% 58%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+    font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+    background-image: radial-gradient(circle at top, hsla(267, 84%, 66%, 0.25), transparent 45%),
+      radial-gradient(circle at 20% 20%, hsla(190, 94%, 44%, 0.2), transparent 35%),
+      radial-gradient(circle at 80% 0%, hsla(327, 72%, 58%, 0.15), transparent 40%);
+    background-color: hsl(var(--background));
+    min-height: 100vh;
+  }
+}

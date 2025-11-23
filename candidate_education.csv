@@ -1,0 +1,23 @@
+id,candidate_id,degree,institution,major,start_year,graduation_year,created_at,updated_at
+d1b048ad-df30-4283-8784-1a2f5c140ac9,a8a807dc-e7d1-42c9-9f27-531cc67de39a,Master of Science in Artificial Intelligence,Carnegie Mellon,Mathematics,2014,2018,2025-02-21 00:44:22+00,2025-11-10 00:44:22+00
+f4b4cb64-db2f-4483-92e4-0241c4a89a84,01c13383-95a7-4c77-bc3e-70f0b3ad91e3,Bachelor of Science in Network Engineering,University of Washington,Software Engineering,2014,2018,2025-11-02 00:44:22+00,2025-10-19 00:44:22+00
+77720938-83a5-4354-8bca-7977fa4a00bc,73225328-b886-481d-8ff9-d71103847fc2,Bachelor of Science in Software Engineering,Harvard University,Information Systems,2014,2018,2025-03-23 00:44:22+00,2025-11-04 00:44:22+00
+09104022-bb3b-4ea0-803f-08159fa4e823,73225328-b886-481d-8ff9-d71103847fc2,Master of Science in Cybersecurity,Harvard University,Data Science,2018,2022,2025-07-18 00:44:22+00,2025-11-04 00:44:22+00
+986a6c6a-4ebc-4ee3-acbe-cab3a00176eb,5df485b2-f60f-49bb-ae71-eb89ec71cbfa,Master of Science,Carnegie Mellon,Mathematics,2014,2018,2025-09-28 00:44:22+00,2025-11-12 00:44:22+00
+2b0da545-2d5d-4716-93c1-66889ca60053,5df485b2-f60f-49bb-ae71-eb89ec71cbfa,Bachelor of Science in Network Engineering,University of Washington,Information Systems,2018,2022,2025-05-24 00:44:22+00,2025-11-14 00:44:22+00
+2b3b0e99-cb8b-4c4b-90a0-6755bdceab6a,74f7edd6-6a84-4ccc-ac26-e7e1b042831b,Bachelor of Science in Information Technology,Harvard University,Information Systems,2014,2018,2025-10-26 00:44:22+00,2025-10-15 00:44:22+00
+d7f6f3b6-18b7-46e8-a4dc-b0d614714438,74f7edd6-6a84-4ccc-ac26-e7e1b042831b,Master of Science in Computer Engineering,University of Washington,Mathematics,2018,2022,2025-09-26 00:44:22+00,2025-10-30 00:44:22+00
+bde4a7b2-9362-4cf3-a08e-7f019db85d75,e4ac0baa-63df-4e8d-89e8-5e93774bb1b2,Master of Business Administration,Harvard University,Physics,2014,2018,2025-10-22 00:44:22+00,2025-10-26 00:44:22+00
+db9c9f70-e311-4cd0-97ce-b30ea98c2019,27597932-83cb-4a4a-b445-b12d8acff9dd,Master of Science in Data Science,Columbia University,Information Systems,2014,2018,2025-11-11 00:44:22+00,2025-10-28 00:44:22+00
+72101a61-33b6-493b-9cb3-3d5e2fd1370f,54a462f9-3925-49a0-b65f-1ff73f44bf8d,Master of Science in Cybersecurity,Georgia Tech,Mathematics,2014,2018,2025-10-14 00:44:22+00,2025-11-04 00:44:22+00
+fb379218-fbae-4461-b22d-90181fdb0cea,e122e604-4437-448d-a0de-f50434d94a93,Bachelor of Engineering,Georgia Tech,Data Science,2014,2018,2025-06-25 00:44:22+00,2025-11-04 00:44:22+00
+933260d6-37ca-4eb6-923c-5f1cdb6ae2a5,9d934cde-22f4-4f01-851f-d68318b4c289,Master of Science in Computer Engineering,NYU,Computer Science,2014,2018,2024-12-05 00:44:22+00,2025-11-02 00:44:22+00
+3d79316d-552f-49e4-8d63-1a9cad03d31c,9d934cde-22f4-4f01-851f-d68318b4c289,Master of Science in Information Technology,Columbia University,Computer Science,2018,2022,2025-06-21 00:44:22+00,2025-10-15 00:44:22+00
+ffd2d397-871c-47dd-a839-5130defa8ebb,b76e52cf-a4c4-413e-b57c-975c9b1011a2,Master of Business Administration,Columbia University,Information Systems,2014,2018,2025-02-10 00:44:22+00,2025-10-26 00:44:22+00
+875fa01b-0dab-4003-b587-68b96d4fd3ae,b76e52cf-a4c4-413e-b57c-975c9b1011a2,Bachelor of Science in Computer Science,University of Texas,Physics,2018,2022,2025-09-18 00:44:22+00,2025-10-25 00:44:22+00
+28d4b54e-6055-43f6-bac9-4a2d2a63e13c,8e1e7635-3442-4b85-b782-05df4bfb3fd6,Master of Science in Artificial Intelligence,UC Berkeley,Computer Science,2014,2018,2025-10-29 00:44:22+00,2025-10-30 00:44:22+00
+f2da4b2b-e4c4-4c4c-ab1b-8f7ff8d12bb9,8e1e7635-3442-4b85-b782-05df4bfb3fd6,Bachelor of Engineering,University of Washington,Electrical Engineering,2018,2022,2024-11-30 00:44:22+00,2025-10-18 00:44:22+00
+21939691-779b-477f-8ba8-ee338f7bbf5d,d14223a1-9ac0-4c50-bf81-eac65e92d429,Doctor of Philosophy,NYU,Information Systems,2014,2018,2025-05-01 00:44:22+00,2025-10-29 00:44:22+00
+4c07f358-fd05-4904-bf58-673e1f9631ef,d14223a1-9ac0-4c50-bf81-eac65e92d429,Master of Science in Software Engineering,Harvard University,Software Engineering,2018,2022,2025-10-15 00:44:22+00,2025-10-28 00:44:22+00
+aefbe09a-a9d6-47a4-9cd2-fcacdc0a5c9c,f98d8b7d-7a5c-472c-9a13-e01cb7f12935,Bachelor of Engineering,NYU,Physics,2014,2018,2025-03-02 00:44:22+00,2025-11-06 00:44:22+00
+2d62457d-b3c4-4cba-9a66-a63636a28d82,495473d1-c42c-48af-b20b-784990bb9553,Master of Science in Software Engineering,Stanford University,Physics,2014,2018,2025-01-07 00:44:22+00,2025-10-22 00:44:22+00

@@ -1,0 +1,11 @@
+id,name,description,website,logo_url,location,industry,created_at,updated_at
+1dd54e36-ef3c-4d87-85f2-49a50a13dbc1,Google,Technology company specializing in search and cloud services,https://google.com,https://google.com/logo.png,"Mountain View, CA",Technology,2023-11-16 00:44:22+00,2025-11-05 00:44:22+00
+e8878a6e-f241-40d4-a14c-c01b070a3ee5,Microsoft,Software and cloud computing company,https://microsoft.com,https://microsoft.com/logo.png,"Redmond, WA",Technology,2024-10-04 00:44:22+00,2025-11-03 00:44:22+00
+37c02401-9422-4600-9606-365c3889aff2,Amazon,E-commerce and cloud services,https://amazon.com,https://amazon.com/logo.png,"Seattle, WA",E-commerce,2024-04-16 00:44:22+00,2025-10-27 00:44:22+00
+d432254d-a224-4ad5-8874-b0ca91e63cae,Apple,Consumer electronics and software,https://apple.com,https://apple.com/logo.png,"Cupertino, CA",Technology,2024-06-26 00:44:22+00,2025-10-28 00:44:22+00
+c3b977ff-181f-4770-a839-012da6acc641,Meta,Social media and virtual reality,https://meta.com,https://meta.com/logo.png,"Menlo Park, CA",Technology,2024-01-03 00:44:22+00,2025-10-22 00:44:22+00
+c37039c5-9378-409b-a311-58e8ca3c24d5,Netflix,Streaming entertainment service,https://netflix.com,https://netflix.com/logo.png,"Los Gatos, CA",Entertainment,2025-07-06 00:44:22+00,2025-10-24 00:44:22+00
+4846cf4b-b5de-4d3e-bbb9-ebbcc734817a,Tesla,Electric vehicles and energy,https://tesla.com,https://tesla.com/logo.png,"Austin, TX",Automotive,2024-10-04 00:44:22+00,2025-11-03 00:44:22+00
+13c0a438-4cbd-4e83-b26c-4caff05e7d85,Airbnb,Online marketplace for lodging,https://airbnb.com,https://airbnb.com/logo.png,"San Francisco, CA",Travel,2025-08-26 00:44:22+00,2025-11-07 00:44:22+00
+17e4f4c2-f877-4461-b538-d80b8c38c4ec,Uber,Ride-sharing and food delivery,https://uber.com,https://uber.com/logo.png,"San Francisco, CA",Transportation,2023-12-17 00:44:22+00,2025-10-29 00:44:22+00
+aa6376c7-57eb-415d-beb5-509e03a28ae4,Stripe,Online payment processing,https://stripe.com,https://stripe.com/logo.png,"San Francisco, CA",Fintech,2025-03-09 00:44:22+00,2025-10-15 00:44:22+00

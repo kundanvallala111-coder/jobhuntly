@@ -1,0 +1,51 @@
+id,user_id,message,type,related_id,is_read,created_at
+c367622d-4703-4b80-93ac-77e4c9c23231,74f7edd6-6a84-4ccc-ac26-e7e1b042831b,A new job matching your profile has been posted,job_posted,19ac4624-3660-41dc-9c3e-6040df4b2dc3,true,2025-10-27 00:44:22+00
+887abea5-efcf-43e3-ae87-1e2de87a4e33,07a9a77c-9684-459b-8818-c734ed927dc1,A new job matching your profile has been posted,job_posted,d9256368-7562-41de-87d0-d7fe68cd7c15,true,2025-10-30 00:44:22+00
+b8bbc077-674a-49f3-809d-77d56fe68758,9d934cde-22f4-4f01-851f-d68318b4c289,You have a new message,application_update,,false,2025-11-03 00:44:22+00
+3f3be435-11f1-4633-93ca-d2f08c46f112,9d934cde-22f4-4f01-851f-d68318b4c289,You have a new message,application_update,,true,2025-10-23 00:44:22+00
+d6f3afaa-daac-4849-abf5-0bb6b3441e91,73225328-b886-481d-8ff9-d71103847fc2,You have a new message,application_update,,false,2025-11-04 00:44:22+00
+0699eb56-7727-4539-8f13-fdcf044d1282,e122e604-4437-448d-a0de-f50434d94a93,You have a new message,application_update,,false,2025-10-16 00:44:22+00
+e458d2bb-5712-4fda-b944-64dd3eef412f,b76e52cf-a4c4-413e-b57c-975c9b1011a2,You have a new message,message,,true,2025-10-24 00:44:22+00
+ff132a64-51aa-4916-8956-81d89cdc12e8,73225328-b886-481d-8ff9-d71103847fc2,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,true,2025-11-07 00:44:22+00
+5ad6daf2-fdc2-43b5-a42e-3ef88c38b2e3,495473d1-c42c-48af-b20b-784990bb9553,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,true,2025-11-11 00:44:22+00
+daca7f54-f796-4a4b-917f-6042456aeaa6,d14223a1-9ac0-4c50-bf81-eac65e92d429,You have a new message,message,,false,2025-10-15 00:44:22+00
+11f8c0f7-1e32-4ee4-bd6f-af7f44f60a27,e4ac0baa-63df-4e8d-89e8-5e93774bb1b2,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,true,2025-10-28 00:44:22+00
+8ed8eaea-5eec-4057-8f3b-2f6a53304ae1,a8a807dc-e7d1-42c9-9f27-531cc67de39a,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,false,2025-11-02 00:44:22+00
+a32f1344-4f16-4315-93ed-61c063ccf40a,27597932-83cb-4a4a-b445-b12d8acff9dd,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,false,2025-11-08 00:44:22+00
+84bc1486-b981-4e79-9067-926f1efbb066,e122e604-4437-448d-a0de-f50434d94a93,You have a new message,application_update,,true,2025-10-26 00:44:22+00
+f2e3dd25-7c75-409e-bcd0-93d62e23f944,a8a807dc-e7d1-42c9-9f27-531cc67de39a,You have a new message,message,,false,2025-10-22 00:44:22+00
+c254a584-8c7a-4b2a-a346-d6861d41c92f,4bb1f45e-792a-42e8-b98d-784e282f403c,You have a new message,application_update,,false,2025-10-30 00:44:22+00
+acebef7f-26e9-424d-b4f2-387ce933564d,74f7edd6-6a84-4ccc-ac26-e7e1b042831b,A new job matching your profile has been posted,job_posted,91bad064-4ee6-4147-a14d-e309f74fe419,false,2025-11-07 00:44:22+00
+1d2d91f1-730c-46e6-9268-c8fcaa8eb28a,e4ac0baa-63df-4e8d-89e8-5e93774bb1b2,You have a new message,application_update,,false,2025-11-10 00:44:22+00
+a7510952-b7ec-45e8-91d5-f6b597f6f63d,e122e604-4437-448d-a0de-f50434d94a93,You have a new message,message,,false,2025-10-31 00:44:22+00
+8558d842-e5dc-4078-b734-28cb03408bea,4bb1f45e-792a-42e8-b98d-784e282f403c,You have a new message,application_update,,true,2025-10-17 00:44:22+00
+645e1079-7191-4327-8890-e774e7b25d71,9d934cde-22f4-4f01-851f-d68318b4c289,You have a new message,application_update,,false,2025-10-16 00:44:22+00
+6b3ed79f-3588-4bb8-b223-f04bd1a714e8,e4ac0baa-63df-4e8d-89e8-5e93774bb1b2,You have a new message,message,,false,2025-11-11 00:44:22+00
+b0df6ec3-23e8-4a46-a618-a3a36eafc3fe,73225328-b886-481d-8ff9-d71103847fc2,You have a new message,application_update,,true,2025-10-20 00:44:22+00
+e6e139ab-1fa2-4ddf-bc36-6702d0d5875a,e122e604-4437-448d-a0de-f50434d94a93,A new job matching your profile has been posted,job_posted,a24bc901-e1c1-4d9b-90de-31315b0d2f0f,false,2025-10-22 00:44:22+00
+d846beeb-1c65-40e9-b00b-401e8234c24d,01c13383-95a7-4c77-bc3e-70f0b3ad91e3,A new job matching your profile has been posted,job_posted,19ac4624-3660-41dc-9c3e-6040df4b2dc3,false,2025-10-24 00:44:22+00
+e5e22459-e9b6-4647-baee-8476e778ca93,495473d1-c42c-48af-b20b-784990bb9553,A new job matching your profile has been posted,job_posted,e06a9baa-d930-4012-9aaf-09397ca50487,false,2025-10-17 00:44:22+00
+dd9a2bf8-817a-400d-a4dd-e32218aec190,d14223a1-9ac0-4c50-bf81-eac65e92d429,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,false,2025-11-09 00:44:22+00
+c5a6aca0-146b-43f2-a0dd-35bbc804cf2e,f0570eff-7a26-45c7-848e-fd41bea44cf3,A new job matching your profile has been posted,job_posted,4604d378-e5af-45e0-b9e1-a1fcb6d552e7,false,2025-10-26 00:44:22+00
+da94cd0c-246d-49cf-8de5-f4e8bd11328b,e122e604-4437-448d-a0de-f50434d94a93,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,false,2025-11-08 00:44:22+00
+368dc999-6298-4454-8b76-688a78d99368,d14223a1-9ac0-4c50-bf81-eac65e92d429,You have a new message,application_update,,false,2025-11-02 00:44:22+00
+57d6a375-19a5-4f51-823e-1f771d0a8ced,07a9a77c-9684-459b-8818-c734ed927dc1,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,false,2025-10-15 00:44:22+00
+0f6c3fde-f534-47bc-8fe8-49dd98603dfe,f0570eff-7a26-45c7-848e-fd41bea44cf3,You have a new message,application_update,,false,2025-10-31 00:44:22+00
+8f2c314c-11f0-46d3-a88c-08c441d5c536,36613a4d-4609-4fdf-b0c5-f70e27ea1bdf,You have a new message,message,,true,2025-10-18 00:44:22+00
+a279a705-41cc-44c4-bbaf-daec36611e0a,73225328-b886-481d-8ff9-d71103847fc2,You have a new message,message,,false,2025-10-19 00:44:22+00
+dd76265d-66e0-422b-92b3-4e61816f7296,f98d8b7d-7a5c-472c-9a13-e01cb7f12935,A new job matching your profile has been posted,job_posted,988afff0-c68b-4bbb-bd85-81115d43267d,false,2025-11-13 00:44:22+00
+cc907e51-ac78-4a98-bdbe-b240da540527,5df485b2-f60f-49bb-ae71-eb89ec71cbfa,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,true,2025-10-17 00:44:22+00
+62544403-0649-474d-88f7-2230a77514aa,d14223a1-9ac0-4c50-bf81-eac65e92d429,You have a new message,application_update,,false,2025-10-16 00:44:22+00
+1b6bb44d-4541-4f7a-9af1-7fb3cbfaaaa2,9d934cde-22f4-4f01-851f-d68318b4c289,You have a new message,application_update,,false,2025-11-06 00:44:22+00
+b2f0aae6-bfd7-4a13-85e2-0803cdbc5197,07a9a77c-9684-459b-8818-c734ed927dc1,You have a new message,message,,false,2025-11-01 00:44:22+00
+d58fdab8-eed2-4a9b-9747-86ffc79d1a73,74f7edd6-6a84-4ccc-ac26-e7e1b042831b,You have a new message,application_update,,false,2025-11-02 00:44:22+00
+7c3d95de-1be5-40d6-957a-eeb55295e272,07a9a77c-9684-459b-8818-c734ed927dc1,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,false,2025-11-06 00:44:22+00
+7487c36d-8d71-4abe-8139-27223fbc3ef7,a8a807dc-e7d1-42c9-9f27-531cc67de39a,You have a new message,application_update,,false,2025-10-20 00:44:22+00
+b62066b1-825d-45af-9109-451d952bd75a,495473d1-c42c-48af-b20b-784990bb9553,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,false,2025-10-26 00:44:22+00
+8c51f371-6a99-4abe-9b9f-32c918ae58a4,4bb1f45e-792a-42e8-b98d-784e282f403c,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,false,2025-10-18 00:44:22+00
+4cedbb35-3d76-4e28-bcff-8c17cf99f70b,54a462f9-3925-49a0-b65f-1ff73f44bf8d,You have a new message,message,,true,2025-10-25 00:44:22+00
+45391f03-9576-41f8-8894-f3a46e7ecc74,495473d1-c42c-48af-b20b-784990bb9553,A new job matching your profile has been posted,job_posted,5d484a3f-2ac6-41be-b271-69107081b427,true,2025-11-03 00:44:22+00
+63e6bb19-bc33-493e-b271-bca6d9811d02,54a462f9-3925-49a0-b65f-1ff73f44bf8d,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,true,2025-10-29 00:44:22+00
+53455bd2-d1e2-429c-a443-7cf1d7ef877c,01c13383-95a7-4c77-bc3e-70f0b3ad91e3,A new job matching your profile has been posted,job_posted,d2e0e670-bcbf-4985-9876-eda459e5893a,false,2025-10-19 00:44:22+00
+44dc8417-8769-48a3-b445-3ccd8d4c3265,495473d1-c42c-48af-b20b-784990bb9553,You have a new message,message,,false,2025-11-04 00:44:22+00
+61d55282-f1c0-4cce-adbc-1da0b1ec84d0,495473d1-c42c-48af-b20b-784990bb9553,Your interview has been scheduled for tomorrow at 2 PM,interview_scheduled,,true,2025-11-04 00:44:22+00
